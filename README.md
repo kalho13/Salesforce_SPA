@@ -2,4 +2,4 @@
  
 Here is the blog article that explains the code sample. 
 
-URL for the actual blog post http://kalho13.blogspot.com/#one for the full explanation of the code.
+URL for the actual blog post <a href ="http://kalho13.blogspot.com/2014/09/salesforce-mobile-single-page.html">blog article</a>
